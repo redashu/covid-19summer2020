@@ -6,7 +6,7 @@
 <p>
 
 ```bash
-<b>GITHUB </b> World Most popular version control system 
+GITHUB  World Most popular version control system 
 ```
 </p>
 </details>
